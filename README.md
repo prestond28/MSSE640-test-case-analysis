@@ -5,3 +5,5 @@
 [Decision Tables](./Week4/DavisPrestonTestCaseDecisionTables.md)
 
 [Pairwise Testing](./Week5/DavisPrestonTestCasePairwiseTesting.md)
+
+[State Transitions](./Week6/DavisPrestonTestCaseStateTransitions.md)
