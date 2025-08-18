@@ -7,3 +7,5 @@
 [Pairwise Testing](./Week5/DavisPrestonTestCasePairwiseTesting.md)
 
 [State Transitions](./Week6/DavisPrestonTestCaseStateTransitions.md)
+
+[Control Flow Testing](./Week7/DavisPrestonTestCaseControlFlowTesting.md)
